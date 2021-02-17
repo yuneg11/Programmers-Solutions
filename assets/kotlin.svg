@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  viewBox="0 0 30 30"
+  width="25px"
+  height="25px"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path
+    d="M5 5v20h19.999l-9.972-10.044L24.999 5H5zm2 10l7-8h6L7 21v-6z"
+    fill-rule="evenodd"
+  />
+</svg>

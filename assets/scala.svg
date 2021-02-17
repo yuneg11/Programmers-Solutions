@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  viewBox="0 0 30 30"
+  width="25px"
+  height="25px"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path
+    d="M23 0v6.473s0 2.698-15.975 4.316v-6.5C7 4.29 23 2.698 23 0zM7 12.921s15.975-1.618 15.975-4.315v6.473s0 2.697-15.975 4.315v-6.473zM7 28v-6.473s15.975-1.619 15.975-4.316v6.473C23 23.71 23 26.382 7 28z"
+    fill-rule="nonzero"
+  />
+</svg>
