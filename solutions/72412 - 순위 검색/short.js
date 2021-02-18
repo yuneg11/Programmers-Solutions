@@ -19,9 +19,5 @@ function solution(info, query) {
         map.get(k).push(v);
     }
     const dict = Array.from(map.entries()).map(([k, l]) => [k, l.sort((a, b) => a - b)]);
-
-    console.log(query)
-    console.log(dict)
-
     return query.map(([q, v]) => dict.reduce((a, [k, l]) => a + (k & q ? 0 : bisect_gt(l, v)), 0));
 }
