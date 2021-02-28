@@ -1,8 +1,13 @@
 # 순위 검색
 
-| ID | 난이도 | 제목 | 분류 | 링크 | 언어 | 조회수 |
-| -- | ---- | :-- | :-- | --- | --- | ---- |
-| 72412 | Level 2 | 순위 검색 | 2021 KAKAO BLIND RECRUITMENT | [문제](https://programmers.co.kr/learn/courses/30/lessons/72412) | [![javascript](/assets/javascript.svg)](/solutions/72412%20-%20순위%20검색/solution.js) [![python3](/assets/python3.svg)](/solutions/72412%20-%20순위%20검색/solution.py) | ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuneg11%2FProgrammers-Solutions%2F72412&count_bg=%23627CC0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false) |
+| ID | 난이도 | 제목 | 분류 | 링크 | 언어 |
+| -- | ---- | :-- | :-- | --- | --- |
+| 72412 | Level 2 | 순위 검색 | 2021 KAKAO BLIND RECRUITMENT | [문제](https://programmers.co.kr/learn/courses/30/lessons/72412) | [![javascript](/assets/javascript.svg)](solution.js) [![python3](/assets/python3.svg)](solution.py) |
+
+| 언어 | short | solution | submit |
+| --- | ----- | -------- | ------ |
+| JavaScript | [short.js](short.js) | [solution.js](solution.js) | [submit.js](submit.js) |
+| Python3 | [short.py](short.py) | [solution.py](solution.py) | [submit.py](submit.py) |
 
 <br>
 <br>

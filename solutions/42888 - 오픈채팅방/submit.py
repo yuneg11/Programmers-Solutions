@@ -1,0 +1,1 @@
+solution = lambda r, k={"E": 0, "L": 1, "C": -1}: (u := dict([[v[1], v[2]] for v in map(lambda v: v.split(" "), r) if len(v) > 2]), [[f"{u[n]}님이 들어왔습니다.", f"{u[n]}님이 나갔습니다."][o] for o, n in [(k[v[0][0]], v[1]) for v in map(lambda v: v.split(" "), r)] if o >= 0])[1]

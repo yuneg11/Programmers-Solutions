@@ -1,0 +1,994 @@
+{
+  "12899": {
+    "level": 2,
+    "title": "124 나라의 숫자",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12899",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "12900": {
+    "level": 3,
+    "title": "2 x n 타일링",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12900",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12901": {
+    "level": 1,
+    "title": "2016년",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12901",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12902": {
+    "level": 4,
+    "title": "3 x n 타일링",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12902",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12903": {
+    "level": 1,
+    "title": "가운데 글자 가져오기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12903",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12906": {
+    "level": 1,
+    "title": "같은 숫자는 싫어",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12906",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12909": {
+    "level": 2,
+    "title": "올바른 괄호",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12909",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12910": {
+    "level": 1,
+    "title": "나누어 떨어지는 숫자 배열",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12910",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12911": {
+    "level": 2,
+    "title": "다음 큰 숫자",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12911",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12912": {
+    "level": 1,
+    "title": "두 정수 사이의 합",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12912",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12913": {
+    "level": 2,
+    "title": "땅따먹기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12913",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12915": {
+    "level": 1,
+    "title": "문자열 내 마음대로 정렬하기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12915",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12916": {
+    "level": 1,
+    "title": "문자열 내 p와 y의 개수",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12916",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12917": {
+    "level": 1,
+    "title": "문자열 내림차순으로 배치하기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12917",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12918": {
+    "level": 1,
+    "title": "문자열 다루기 기본",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12918",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12919": {
+    "level": 1,
+    "title": "서울에서 김서방 찾기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12919",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12921": {
+    "level": 1,
+    "title": "소수 찾기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12921",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12922": {
+    "level": 1,
+    "title": "수박수박수박수박수박수?",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12922",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12924": {
+    "level": 2,
+    "title": "숫자의 표현",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12924",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12925": {
+    "level": 1,
+    "title": "문자열을 정수로 바꾸기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12925",
+    "languages": [
+      "cpp",
+      "python3"
+    ]
+  },
+  "12926": {
+    "level": 1,
+    "title": "시저 암호",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12926",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12928": {
+    "level": 1,
+    "title": "약수의 합",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12928",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12930": {
+    "level": 1,
+    "title": "이상한 문자 만들기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12930",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12931": {
+    "level": 1,
+    "title": "자릿수 더하기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12931",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12932": {
+    "level": 1,
+    "title": "자연수 뒤집어 배열로 만들기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12932",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12933": {
+    "level": 1,
+    "title": "정수 내림차순으로 배치하기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12933",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12934": {
+    "level": 1,
+    "title": "정수 제곱근 판별",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12934",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12935": {
+    "level": 1,
+    "title": "제일 작은 수 제거하기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12935",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12937": {
+    "level": 1,
+    "title": "짝수와 홀수",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12937",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12939": {
+    "level": 2,
+    "title": "최댓값과 최솟값",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12939",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12940": {
+    "level": 1,
+    "title": "최대공약수와 최소공배수",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12940",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12941": {
+    "level": 2,
+    "title": "최솟값 만들기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12941",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12943": {
+    "level": 1,
+    "title": "콜라츠 추측",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12943",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12944": {
+    "level": 1,
+    "title": "평균 구하기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12944",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12945": {
+    "level": 2,
+    "title": "피보나치 수",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12945",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12947": {
+    "level": 1,
+    "title": "하샤드 수",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12947",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12948": {
+    "level": 1,
+    "title": "핸드폰 번호 가리기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12948",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12949": {
+    "level": 2,
+    "title": "행렬의 곱셈",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12949",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12950": {
+    "level": 1,
+    "title": "행렬의 덧셈",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12950",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12951": {
+    "level": 2,
+    "title": "JadenCase 문자열 만들기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12951",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12952": {
+    "level": 3,
+    "title": "N-Queen",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12952",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12953": {
+    "level": 2,
+    "title": "N개의 최소공배수",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12953",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12954": {
+    "level": 1,
+    "title": "x만큼 간격이 있는 n개의 숫자",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12954",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12969": {
+    "level": 1,
+    "title": "직사각형 별찍기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12969",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "12973": {
+    "level": 2,
+    "title": "짝지어 제거하기",
+    "category": "2017 팁스타운",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12973",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12977": {
+    "level": 2,
+    "title": "소수 만들기",
+    "category": "Summer/Winter Coding(~2018)",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12977",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12980": {
+    "level": 2,
+    "title": "점프와 순간 이동",
+    "category": "Summer/Winter Coding(~2018)",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12980",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12981": {
+    "level": 2,
+    "title": "영어 끝말잇기",
+    "category": "Summer/Winter Coding(~2018)",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12981",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12982": {
+    "level": 1,
+    "title": "예산",
+    "category": "Summer/Winter Coding(~2018)",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12982",
+    "languages": [
+      "python3"
+    ]
+  },
+  "12985": {
+    "level": 2,
+    "title": "예상 대진표",
+    "category": "2017 팁스타운",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12985",
+    "languages": [
+      "python3"
+    ]
+  },
+  "17679": {
+    "level": 2,
+    "title": "[1차] 프렌즈4블록",
+    "category": "2018 KAKAO BLIND RECRUITMENT",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/17679",
+    "languages": [
+      "python3"
+    ]
+  },
+  "17680": {
+    "level": 2,
+    "title": "[1차] 캐시",
+    "category": "2018 KAKAO BLIND RECRUITMENT",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/17680",
+    "languages": [
+      "python3"
+    ]
+  },
+  "17681": {
+    "level": 1,
+    "title": "[1차] 비밀지도",
+    "category": "2018 KAKAO BLIND RECRUITMENT",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/17681",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "17682": {
+    "level": 1,
+    "title": "[1차] 다트 게임",
+    "category": "2018 KAKAO BLIND RECRUITMENT",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/17682",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "17686": {
+    "level": 2,
+    "title": "[3차] 파일명 정렬",
+    "category": "2018 KAKAO BLIND RECRUITMENT",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/17686",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42576": {
+    "level": 1,
+    "title": "완주하지 못한 선수",
+    "category": "해시",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42576",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42577": {
+    "level": 2,
+    "title": "전화번호 목록",
+    "category": "해시",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42577",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42578": {
+    "level": 2,
+    "title": "위장",
+    "category": "해시",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42578",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42579": {
+    "level": 3,
+    "title": "베스트앨범",
+    "category": "해시",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42579",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42583": {
+    "level": 2,
+    "title": "다리를 지나는 트럭",
+    "category": "스택/큐",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42583",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42584": {
+    "level": 2,
+    "title": "주식가격",
+    "category": "스택/큐",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42584",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42586": {
+    "level": 2,
+    "title": "기능개발",
+    "category": "스택/큐",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42586",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42587": {
+    "level": 2,
+    "title": "프린터",
+    "category": "스택/큐",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42587",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42626": {
+    "level": 2,
+    "title": "더 맵게",
+    "category": "힙(Heap)",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42626",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42628": {
+    "level": 3,
+    "title": "이중우선순위큐",
+    "category": "힙(Heap)",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42628",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42747": {
+    "level": 2,
+    "title": "H-Index",
+    "category": "정렬",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42747",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42748": {
+    "level": 1,
+    "title": "K번째수",
+    "category": "정렬",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42748",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42839": {
+    "level": 2,
+    "title": "소수 찾기",
+    "category": "완전탐색",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42839",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42840": {
+    "level": 1,
+    "title": "모의고사",
+    "category": "완전탐색",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42840",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42842": {
+    "level": 2,
+    "title": "카펫",
+    "category": "완전탐색",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42842",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42860": {
+    "level": 2,
+    "title": "조이스틱",
+    "category": "탐욕법(Greedy)",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42860",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "42862": {
+    "level": 1,
+    "title": "체육복",
+    "category": "탐욕법(Greedy)",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42862",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42883": {
+    "level": 2,
+    "title": "큰 수 만들기",
+    "category": "탐욕법(Greedy)",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42883",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42885": {
+    "level": 2,
+    "title": "구명보트",
+    "category": "탐욕법(Greedy)",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42885",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "42888": {
+    "level": 2,
+    "title": "오픈채팅방",
+    "category": "2019 KAKAO BLIND RECRUITMENT",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42888",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42889": {
+    "level": 1,
+    "title": "실패율",
+    "category": "2019 KAKAO BLIND RECRUITMENT",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42889",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "42892": {
+    "level": 3,
+    "title": "길 찾기 게임",
+    "category": "2019 KAKAO BLIND RECRUITMENT",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42892",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42897": {
+    "level": 4,
+    "title": "도둑질",
+    "category": "동적계획법(Dynamic Programming)",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42897",
+    "languages": [
+      "python3"
+    ]
+  },
+  "43105": {
+    "level": 3,
+    "title": "정수 삼각형",
+    "category": "동적계획법(Dynamic Programming)",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/43105",
+    "languages": [
+      "python3"
+    ]
+  },
+  "43165": {
+    "level": 2,
+    "title": "타겟 넘버",
+    "category": "깊이/너비 우선 탐색(DFS/BFS)",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/43165",
+    "languages": [
+      "python3"
+    ]
+  },
+  "43238": {
+    "level": 3,
+    "title": "입국심사",
+    "category": "이분탐색",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/43238",
+    "languages": [
+      "python3"
+    ]
+  },
+  "49189": {
+    "level": 3,
+    "title": "가장 먼 노드",
+    "category": "그래프",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/49189",
+    "languages": [
+      "python3"
+    ]
+  },
+  "49993": {
+    "level": 2,
+    "title": "스킬트리",
+    "category": "Summer/Winter Coding(~2018)",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/49993",
+    "languages": [
+      "python3"
+    ]
+  },
+  "49995": {
+    "level": 4,
+    "title": "쿠키 구입",
+    "category": "Summer/Winter Coding(~2018)",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/49995",
+    "languages": [
+      "python3"
+    ]
+  },
+  "60057": {
+    "level": 2,
+    "title": "문자열 압축",
+    "category": "2020 KAKAO BLIND RECRUITMENT",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/60057",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "60058": {
+    "level": 2,
+    "title": "괄호 변환",
+    "category": "2020 KAKAO BLIND RECRUITMENT",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/60058",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "62048": {
+    "level": 2,
+    "title": "멀쩡한 사각형",
+    "category": "Summer/Winter Coding(2019)",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/62048",
+    "languages": [
+      "javascript"
+    ]
+  },
+  "64061": {
+    "level": 1,
+    "title": "크레인 인형뽑기 게임",
+    "category": "2019 카카오 개발자 겨울 인턴십",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/64061",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "64065": {
+    "level": 2,
+    "title": "튜플",
+    "category": "2019 카카오 개발자 겨울 인턴십",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/64065",
+    "languages": [
+      "python3"
+    ]
+  },
+  "67256": {
+    "level": 1,
+    "title": "키패드 누르기",
+    "category": "2020 카카오 인턴십",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/67256",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "67257": {
+    "level": 2,
+    "title": "수식 최대화",
+    "category": "2020 카카오 인턴십",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/67257",
+    "languages": [
+      "python3"
+    ]
+  },
+  "68644": {
+    "level": 1,
+    "title": "두 개 뽑아서 더하기",
+    "category": "월간 코드 챌린지 시즌1",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/68644",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "68645": {
+    "level": 2,
+    "title": "삼각 달팽이",
+    "category": "월간 코드 챌린지 시즌1",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/68645",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "68646": {
+    "level": 3,
+    "title": "풍선 터트리기",
+    "category": "월간 코드 챌린지 시즌1",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/68646",
+    "languages": [
+      "python3"
+    ]
+  },
+  "68647": {
+    "level": 4,
+    "title": "짝수 행 세기",
+    "category": "월간 코드 챌린지 시즌1",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/68647",
+    "languages": [
+      "python3"
+    ]
+  },
+  "68935": {
+    "level": 1,
+    "title": "3진법 뒤집기",
+    "category": "월간 코드 챌린지 시즌1",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/68935",
+    "languages": [
+      "python3"
+    ]
+  },
+  "68936": {
+    "level": 2,
+    "title": "쿼드압축 후 개수 세기",
+    "category": "월간 코드 챌린지 시즌1",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/68936",
+    "languages": [
+      "python3"
+    ]
+  },
+  "68937": {
+    "level": 4,
+    "title": "트리 트리오 중간값",
+    "category": "월간 코드 챌린지 시즌1",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/68937",
+    "languages": [
+      "python3"
+    ]
+  },
+  "70128": {
+    "level": 1,
+    "title": "내적",
+    "category": "월간 코드 챌린지 시즌1",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/70128",
+    "languages": [
+      "python3"
+    ]
+  },
+  "70129": {
+    "level": 2,
+    "title": "이진 변환 반복하기",
+    "category": "월간 코드 챌린지 시즌1",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/70129",
+    "languages": [
+      "python3"
+    ]
+  },
+  "70130": {
+    "level": 3,
+    "title": "스타 수열",
+    "category": "월간 코드 챌린지 시즌1",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/70130",
+    "languages": [
+      "python3"
+    ]
+  },
+  "72410": {
+    "level": 1,
+    "title": "신규 아이디 추천",
+    "category": "2021 KAKAO BLIND RECRUITMENT",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/72410",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "72411": {
+    "level": 2,
+    "title": "메뉴 리뉴얼",
+    "category": "2021 KAKAO BLIND RECRUITMENT",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/72411",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "72412": {
+    "level": 2,
+    "title": "순위 검색",
+    "category": "2021 KAKAO BLIND RECRUITMENT",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/72412",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "72413": {
+    "level": 3,
+    "title": "합승 택시 요금",
+    "category": "2021 KAKAO BLIND RECRUITMENT",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/72413",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "72414": {
+    "level": 3,
+    "title": "광고 삽입",
+    "category": "2021 KAKAO BLIND RECRUITMENT",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/72414",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "72415": {
+    "level": 3,
+    "title": "카드 짝 맞추기",
+    "category": "2021 KAKAO BLIND RECRUITMENT",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/72415",
+    "languages": [
+      "python3"
+    ]
+  },
+  "72416": {
+    "level": 4,
+    "title": "매출 하락 최소화",
+    "category": "2021 KAKAO BLIND RECRUITMENT",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/72416",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  }
+}
