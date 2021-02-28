@@ -6,8 +6,8 @@
 
 | 언어 | short | solution | submit |
 | --- | ----- | -------- | ------ |
-| JavaScript | [short.js](short.js) | [solution.js](solution.js) | [submit.js](submit.js) |
-| Python3 | [short.py](short.py) | [solution.py](solution.py) | [submit.py](submit.py) |
+| JavaScript | [submit.js](submit.js) (same) | [solution.js](solution.js) | [submit.js](submit.js) |
+| Python3 | [submit.py](submit.py) (same) | [solution.py](solution.py) | [submit.py](submit.py) |
 
 <br>
 <br>
