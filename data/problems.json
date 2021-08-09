@@ -45,6 +45,15 @@
       "python3"
     ]
   },
+  "12905": {
+    "level": 2,
+    "title": "가장 큰 정사각형 찾기",
+    "category": "연습문제",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/12905",
+    "languages": [
+      "python3"
+    ]
+  },
   "12906": {
     "level": 1,
     "title": "같은 숫자는 싫어",
@@ -408,7 +417,7 @@
     ]
   },
   "12977": {
-    "level": 2,
+    "level": 1,
     "title": "소수 만들기",
     "category": "Summer/Winter Coding(~2018)",
     "link": "https://programmers.co.kr/learn/courses/30/lessons/12977",
@@ -585,6 +594,15 @@
     "title": "이중우선순위큐",
     "category": "힙(Heap)",
     "link": "https://programmers.co.kr/learn/courses/30/lessons/42628",
+    "languages": [
+      "python3"
+    ]
+  },
+  "42746": {
+    "level": 2,
+    "title": "가장 큰 수",
+    "category": "정렬",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/42746",
     "languages": [
       "python3"
     ]
@@ -942,16 +960,6 @@
       "python3"
     ]
   },
-  "72412": {
-    "level": 2,
-    "title": "순위 검색",
-    "category": "2021 KAKAO BLIND RECRUITMENT",
-    "link": "https://programmers.co.kr/learn/courses/30/lessons/72412",
-    "languages": [
-      "javascript",
-      "python3"
-    ]
-  },
   "72413": {
     "level": 3,
     "title": "합승 택시 요금",
@@ -986,6 +994,27 @@
     "title": "매출 하락 최소화",
     "category": "2021 KAKAO BLIND RECRUITMENT",
     "link": "https://programmers.co.kr/learn/courses/30/lessons/72416",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "82612": {
+    "level": 1,
+    "title": "1주차",
+    "category": "위클리 챌린지",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/82612",
+    "languages": [
+      "cpp",
+      "javascript",
+      "python3"
+    ]
+  },
+  "83201": {
+    "level": 1,
+    "title": "2주차",
+    "category": "위클리 챌린지",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/83201",
     "languages": [
       "javascript",
       "python3"
