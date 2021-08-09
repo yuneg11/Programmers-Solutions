@@ -2,4 +2,9 @@
 
 [[SUMMARY]]
 
-[[SOLUTIONS]]
+[[INDEX]]
+
+<br>
+<br>
+
+[[SOLUTION]]
