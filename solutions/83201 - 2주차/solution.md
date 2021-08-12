@@ -1,17 +1,3 @@
-# 2주차
-
-| ID | 난이도 | 제목 | 분류 | 링크 | 언어 |
-| -- | ---- | :-- | :-- | --- | --- |
-| 83201 | Level 1 | 2주차 | 위클리 챌린지 | [문제](https://programmers.co.kr/learn/courses/30/lessons/83201) | [![javascript](/assets/javascript.svg)](submit.js) [![python3](/assets/python3.svg)](solution.py) |
-
-| 언어 | short | solution | submit |
-| --- | ----- | -------- | ------ |
-| JavaScript | - | - | [submit.js](submit.js) |
-| Python3 | - | [solution.py](solution.py) | [submit.py](submit.py) |
-
-<br>
-<br>
-
 ## `python 3` 숏코딩 풀어 쓴 버전
 
 일반적인 `python 3` 풀이는 [`solution.py`](./solution.py)를 참고해 주세요.
@@ -59,10 +45,3 @@ def solution(scores):
 
     return "".join(grades)
 ```
-
-
-## 저작권
-
-코딩테스트 연습에 공개된 문제는 (주)그렙이 저작권을 가지고 있습니다.
-
-출처: [프로그래머스 코딩 테스트 연습](https://programmers.co.kr/learn/challenges)

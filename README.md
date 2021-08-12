@@ -129,4 +129,10 @@
 | 72415 | Level&nbsp;3 | 카드 짝 맞추기 [![문제](/assets/link.svg)](https://programmers.co.kr/learn/courses/30/lessons/72415) | 2021 KAKAO BLIND RECRUITMENT | [~~풀이~~](/solutions/72415%20-%20카드%20짝%20맞추기/README.md) [![python3](/assets/python3.svg)](/solutions/72415%20-%20카드%20짝%20맞추기/submit.py) |
 | 72416 | Level&nbsp;4 | 매출 하락 최소화 [![문제](/assets/link.svg)](https://programmers.co.kr/learn/courses/30/lessons/72416) | 2021 KAKAO BLIND RECRUITMENT | [~~풀이~~](/solutions/72416%20-%20매출%20하락%20최소화/README.md) [![javascript](/assets/javascript.svg)](/solutions/72416%20-%20매출%20하락%20최소화/submit.js) [![python3](/assets/python3.svg)](/solutions/72416%20-%20매출%20하락%20최소화/submit.py) |
 | 82612 | Level&nbsp;1 | 1주차 [![문제](/assets/link.svg)](https://programmers.co.kr/learn/courses/30/lessons/82612) | 위클리 챌린지 | [~~풀이~~](/solutions/82612%20-%201주차/README.md) [![cpp](/assets/cpp.svg)](/solutions/82612%20-%201주차/submit.cpp) [![javascript](/assets/javascript.svg)](/solutions/82612%20-%201주차/submit.js) [![python3](/assets/python3.svg)](/solutions/82612%20-%201주차/submit.py) |
-| 83201 | Level&nbsp;1 | 2주차 [![문제](/assets/link.svg)](https://programmers.co.kr/learn/courses/30/lessons/83201) | 위클리 챌린지 | [~~풀이~~](/solutions/83201%20-%202주차/README.md) [![javascript](/assets/javascript.svg)](/solutions/83201%20-%202주차/submit.js) [![python3](/assets/python3.svg)](/solutions/83201%20-%202주차/submit.py) |
+| 83201 | Level&nbsp;1 | 2주차 [![문제](/assets/link.svg)](https://programmers.co.kr/learn/courses/30/lessons/83201) | 위클리 챌린지 | [풀이](/solutions/83201%20-%202주차/README.md) [![javascript](/assets/javascript.svg)](/solutions/83201%20-%202주차/submit.js) [![python3](/assets/python3.svg)](/solutions/83201%20-%202주차/solution.py) |
+
+## 저작권
+
+코딩테스트 연습에 공개된 문제는 (주)그렙이 저작권을 가지고 있습니다.
+
+출처: [프로그래머스 코딩 테스트 연습](https://programmers.co.kr/learn/challenges)
