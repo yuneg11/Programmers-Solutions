@@ -60,6 +60,8 @@ def solution(scores):
     return "".join(grades)
 ```
 
+<br>
+<br>
 
 ## 저작권
 
