@@ -1009,9 +1009,18 @@
       "python3"
     ]
   },
+  "77484": {
+    "level": 1,
+    "title": "로또의 최고 순위와 최저 순위",
+    "category": "2021 Dev-Matching: 웹 백엔드 개발자(상반기)",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/77484",
+    "languages": [
+      "python3"
+    ]
+  },
   "82612": {
     "level": 1,
-    "title": "1주차",
+    "title": "1주차_부족한 금액 계산하기",
     "category": "위클리 챌린지",
     "link": "https://programmers.co.kr/learn/courses/30/lessons/82612",
     "languages": [
@@ -1025,6 +1034,27 @@
     "title": "2주차",
     "category": "위클리 챌린지",
     "link": "https://programmers.co.kr/learn/courses/30/lessons/83201",
+    "languages": [
+      "javascript",
+      "python3"
+    ]
+  },
+  "84512": {
+    "level": 2,
+    "title": "5주차_모음사전",
+    "category": "위클리 챌린지",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/84512",
+    "languages": [
+      "cpp",
+      "javascript",
+      "python3"
+    ]
+  },
+  "87377": {
+    "level": 2,
+    "title": "10주차_교점에 별 만들기",
+    "category": "위클리 챌린지",
+    "link": "https://programmers.co.kr/learn/courses/30/lessons/87377",
     "languages": [
       "javascript",
       "python3"
