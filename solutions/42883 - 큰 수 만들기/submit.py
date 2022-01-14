@@ -1,5 +1,5 @@
 def delete(c, p):
-    for key in [key for key in c.keys()]:
+    for key in list(c.keys()):
         while len(c[key]) > 0 and c[key][0] < p:
             c[key].pop(0)
         if len(c[key]) == 0:
@@ -14,12 +14,12 @@ def solution(n, k):
 
     a, l, p = [], len(n), 0
     while k > 0 and k < l - p:
-        for key in c.keys():
+        for key, value in c.items():
             if c[key][0] <= p + k:
                 a.append(key)
-                k -= c[key][0] - p
+                k -= value[0] - p
                 p = c[key][0] + 1
-                delete(c, p)                
+                delete(c, p)
                 break
 
 

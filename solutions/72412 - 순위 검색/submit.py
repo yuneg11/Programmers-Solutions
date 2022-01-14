@@ -10,4 +10,7 @@ def solution(info, query):
     d = defaultdict(list)
     for k, v in info:
         insort(d[k], v)
-    return [sum([len(l) - bisect_left(l, v) for k, l in d.items() if not k & q]) for q, v in query]
+    return [
+        sum(len(l) - bisect_left(l, v) for k, l in d.items() if not k & q)
+        for q, v in query
+    ]

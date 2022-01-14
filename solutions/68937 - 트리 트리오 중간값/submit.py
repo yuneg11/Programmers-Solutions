@@ -28,9 +28,5 @@ def solution(n, edges):
 
     if len(v3s) > 1:
         return w
-    else:
-        v4s, _ = get_far(graph, v3s[0])
-        if len(v4s) > 1:
-            return w
-        else:
-            return w - 1
+    v4s, _ = get_far(graph, v3s[0])
+    return w if len(v4s) > 1 else w - 1

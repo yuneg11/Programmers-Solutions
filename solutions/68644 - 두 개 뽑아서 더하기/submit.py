@@ -1,3 +1,3 @@
 from itertools import combinations
 
-solution = lambda n: list(sorted(set([sum(v) for v in combinations(n, 2)])))
+solution = lambda n: list(sorted({sum(v) for v in combinations(n, 2)}))

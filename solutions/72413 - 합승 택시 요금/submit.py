@@ -10,4 +10,4 @@ def solution(n, s, a, b, fares):
     for k, i, j in product(range(n), repeat=3):
         if d[i][j] > (l := d[i][k] + d[k][j]):
             d[i][j] = l
-    return min([d[s][k] + d[k][a] + d[k][b] for k in range(n)])
+    return min(d[s][k] + d[k][a] + d[k][b] for k in range(n))

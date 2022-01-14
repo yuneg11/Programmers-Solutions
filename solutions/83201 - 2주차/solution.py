@@ -9,10 +9,7 @@ def is_self_score_valid(self_score, other_scores):
     min_score = min(other_scores)
     max_score = max(other_scores)
 
-    if self_score < min_score or max_score < self_score:
-        return False
-    else:
-        return True
+    return self_score >= min_score and max_score >= self_score
 
 
 def get_grade(average_score):

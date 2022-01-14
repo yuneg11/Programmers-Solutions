@@ -7,7 +7,7 @@ def solution(scoville, K):
     for v in scoville:
         push(h, v)
 
-    while len(h) > 0:
+    while h:
         low = pop(h)
 
         if low >= K:

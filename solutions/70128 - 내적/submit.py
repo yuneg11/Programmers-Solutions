@@ -1,1 +1,1 @@
-solution = lambda a, b: sum([u * v for u, v in zip(a, b)])
+solution = lambda a, b: sum(u * v for u, v in zip(a, b))

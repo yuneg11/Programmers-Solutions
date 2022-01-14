@@ -40,11 +40,12 @@ def solution(info, query):
     results = []
 
     for qcode, qscore in query:
-        count = 0
+        count = sum(
+            len(iscores) - bisect_left(iscores, qscore)
+            for icode, iscores in info_index.items()
+            if qcode & icode == 0
+        )
 
-        for icode, iscores in info_index.items():
-            if qcode & icode == 0: # Bit check
-                count += len(iscores) - bisect_left(iscores, qscore)
 
         results.append(count)
 

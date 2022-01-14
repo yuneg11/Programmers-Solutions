@@ -1,5 +1,5 @@
 def solution(play, adv, logs):
-    c = lambda t: int(t[0:2]) * 3600 + int(t[3:5]) * 60 + int(t[6:8])
+    c = lambda t: int(t[:2]) * 3600 + int(t[3:5]) * 60 + int(t[6:8])
     play, adv = c(play), c(adv)
     logs = sorted([s for t in logs for s in [(c(t[:8]), 1), (c(t[9:]), 0)]])
 

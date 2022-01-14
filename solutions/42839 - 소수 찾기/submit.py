@@ -7,10 +7,7 @@ def prime(number):
     elif number <= 3:
         return True
     else:
-        for i in range(2, ceil(sqrt(number)) + 1):
-            if number % i == 0:
-                return False
-        return True
+        return all(number % i != 0 for i in range(2, ceil(sqrt(number)) + 1))
 
 def solution(numbers):
     answer = 0

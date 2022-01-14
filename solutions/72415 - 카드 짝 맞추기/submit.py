@@ -32,7 +32,7 @@ def solution(board, r, c):
     for p in permutations(filter(lambda v: v, loc.values())):
         sumv = 0
         xys = [(r, c)]
-        stage = [[v for v in w] for w in board]
+        stage = [list(w) for w in board]
         for xy1, xy2 in p:
             vs = [(move(stage, xy, xy1) + move(stage, xy1, xy2), xy2) for xy in xys]\
                + [(move(stage, xy, xy2) + move(stage, xy2, xy1), xy1) for xy in xys]

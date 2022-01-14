@@ -1,13 +1,12 @@
-cache = dict()
+cache = {}
 
 def c(n, k, a=1, b=1):
     if (key := str(f"{n},{k}")) in cache:
         return cache[key]
-    else:
-        for i in range(min(n - k, k)):
-            a, b = a * (i + 1), b * (n - i)
-        cache[key] = (result := b // a)
-        return result
+    for i in range(min(n - k, k)):
+        a, b = a * (i + 1), b * (n - i)
+    cache[key] = (result := b // a)
+    return result
 
 def solution(a):
     s, dp = [sum(v) for v in zip(*a)], [0] * ((l := len(a)) + 1)
